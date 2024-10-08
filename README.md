@@ -13,7 +13,7 @@ Dossiers Terraform Pour creer des EKS et node avec addon
 - Les addons VPC-CNI, CoreDNS, et kube-proxy devront être obligatoirement installés sur le cluster
 
 - Le rôle IAM qui devra être associé à EKS sera le rôle EKS_Students, déjà présent sur la plateforme 
-AWS fournie en cours.
+AWS 
 
 - Un load balancer applicati
 
