@@ -15,6 +15,4 @@ Dossiers Terraform Pour creer des EKS et node avec addon
 - Le rôle IAM qui devra être associé à EKS sera le rôle EKS_Students, déjà présent sur la plateforme 
 AWS 
 
-- Un load balancer applicati
-
-Issue de TP de Kevin CHEVREUIL
+- Un load balancer applicatif
